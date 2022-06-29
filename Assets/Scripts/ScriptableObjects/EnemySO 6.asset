@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a93f8631a1171e780ac170fbcc7e44, type: 3}
+  m_Name: EnemySO 6
+  m_EditorClassIdentifier: 
+  <height>k__BackingField: 1
+  <prefab>k__BackingField: {fileID: 5487354143554580894, guid: 188826872bd468d6dbd8ae2b61cdfaa6, type: 3}
+  <speed>k__BackingField: 3
+  <currencyPrefab>k__BackingField: {fileID: 1947823177085009740, guid: 41f1400cc608a64fb822af55ba28926d, type: 3}
+  <currencyAward>k__BackingField: 100

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4e07fc79489c6d86a2a7292cf95d885, type: 3}
+  m_Name: MortarSO
+  m_EditorClassIdentifier: 
+  <m_aabb>k__BackingField: {x: 3, y: 1, z: 3}
+  <m_prefabObject>k__BackingField: {fileID: 6654801082952959563, guid: c15b61bca3245fcc4884aeaba661f1c8, type: 3}
+  <m_fakePrefabObject>k__BackingField: {fileID: 6654801082952959563, guid: d81167989823176ac9fb8a693b5cc120, type: 3}
+  m_costPrice: 200
+  <m_rangeRadius>k__BackingField: 10
+  <m_fireDelay>k__BackingField: 4000
+  <m_damage>k__BackingField: 20
+  <m_angVelocity>k__BackingField: 5

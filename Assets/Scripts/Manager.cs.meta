@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf11e94066ee5ebed8eaf549391b9b58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_changeWave: {instanceID: 0}
+  - m_inventory: {instanceID: 0}
+  - m_toggleController: {instanceID: 0}
+  - m_TMPCoinAmount: {instanceID: 0}
+  - m_lvlSO: {fileID: 11400000, guid: 2e06eff8046d38a518bd19073178f08e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

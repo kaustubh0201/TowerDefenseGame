@@ -1,9 +1,5 @@
 # Tower Defense Game
 
-Note: Please star the repo if you find this project useful. 
-
-<hr>
-
 ## Introduction
 
 <p align = "justify">
